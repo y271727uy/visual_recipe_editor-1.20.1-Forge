@@ -1,3 +1,5 @@
+fork自https://github.com/Xiaoyu-2009/visual_recipe_editor
+
 # 可视化配方编写 (Workstation Recipe Exporter)
 
 [English](#english) | [中文](#中文)
