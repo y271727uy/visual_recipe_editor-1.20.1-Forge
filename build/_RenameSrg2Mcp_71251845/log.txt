@@ -1,0 +1,15 @@
+Java Launcher: D:\java\jdk17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, D:\document\dev\gradle\.gradle\caches\modules-2\files-2.1\maven.modrinth\farmers-delight\1.20.1-1.2.7\e614a93c6520d7b4e6714ba110daa416f07c716\farmers-delight-1.20.1-1.2.7.jar, --output, D:\document\dev\gradle\.gradle\caches\forge_gradle\deobf_dependencies\maven\modrinth\farmers-delight\1.20.1-1.2.7_mapped_official_1.20.1\farmers-delight-1.20.1-1.2.7_mapped_official_1.20.1.jar, --mcp, D:\document\dev\gradle\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - D:\document\dev\gradle\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: D:\document\dev\GitHub\visual_recipe_editor-1.20.1-Forge\build\_RenameSrg2Mcp_71251845
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  D:\document\dev\gradle\.gradle\caches\modules-2\files-2.1\maven.modrinth\farmers-delight\1.20.1-1.2.7\e614a93c6520d7b4e6714ba110daa416f07c716\farmers-delight-1.20.1-1.2.7.jar
+Output: D:\document\dev\gradle\.gradle\caches\forge_gradle\deobf_dependencies\maven\modrinth\farmers-delight\1.20.1-1.2.7_mapped_official_1.20.1\farmers-delight-1.20.1-1.2.7_mapped_official_1.20.1.jar
+MCP:    D:\document\dev\gradle\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

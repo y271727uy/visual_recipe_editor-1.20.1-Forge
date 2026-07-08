@@ -1,0 +1,39 @@
+{
+  "gui.visual_recipe_editor.crafting.title": "Crafting Recipe Editor",
+  "gui.visual_recipe_editor.furnace.title": "Furnace Recipe Editor",
+  "gui.visual_recipe_editor.blast_furnace.title": "Blast Furnace Recipe Editor",
+  "gui.visual_recipe_editor.smoker.title": "Smoker Recipe Editor",
+  "gui.visual_recipe_editor.stonecutter.title": "Stonecutter Recipe Editor",
+  "gui.visual_recipe_editor.smithing.title": "Smithing Table Recipe Editor",
+  "gui.visual_recipe_editor.cutting_board.title": "Cutting Board Recipe Editor",
+  "gui.visual_recipe_editor.cooking_pot.title": "Cooking Pot Recipe Editor",
+
+  "gui.visual_recipe_editor.button.json": "JSON",
+  "gui.visual_recipe_editor.button.kubejs": "KubeJS",
+  "gui.visual_recipe_editor.button.shapeless": "Shapeless",
+  "gui.visual_recipe_editor.button.use_tags": "Use Tags",
+  "gui.visual_recipe_editor.button.use_nbt": "Use NBT",
+  
+  "gui.visual_recipe_editor.tooltip.json": "Left click to export to folder\nCtrl+Left click to copy to clipboard",
+  "gui.visual_recipe_editor.tooltip.kubejs": "Left click to export to KubeJS script\nCtrl+Left click to copy to clipboard",
+  "gui.visual_recipe_editor.tooltip.nbt_input": "NBT data (JSON format)",
+  "gui.visual_recipe_editor.tooltip.result_nbt": "Result NBT data (JSON format)",
+  "gui.visual_recipe_editor.tooltip.cooking_time": "Cooking time (ticks), default: %s",
+  "gui.visual_recipe_editor.tooltip.experience": "Experience gained, default: %s",
+  "gui.visual_recipe_editor.tooltip.chance": "Result chance, range: 0.0 - 1.0",
+  "gui.visual_recipe_editor.tooltip.recipe_book_tab": "Cycle the Farmer's Delight recipe book category",
+
+  "gui.visual_recipe_editor.input.cooking_time": "Cooking Time",
+  "gui.visual_recipe_editor.input.experience": "Experience",
+  "gui.visual_recipe_editor.input.chance": "Chance",
+  "gui.visual_recipe_editor.label.ingredient": "Ingredient",
+  "gui.visual_recipe_editor.label.tool": "Tool",
+  "gui.visual_recipe_editor.label.container": "Container",
+  "gui.visual_recipe_editor.button.recipe_book_tab": "Tab: %s",
+  "gui.visual_recipe_editor.recipe_book_tab.meals": "Meals",
+  "gui.visual_recipe_editor.recipe_book_tab.drinks": "Drinks",
+  "gui.visual_recipe_editor.recipe_book_tab.misc": "Misc",
+
+  "command.visual_recipe_editor.unknown_workstation": "Unknown workstation type: %s",
+  "command.visual_recipe_editor.available_types": "Available types: crafting, furnace, blast_furnace, smoker, smithing, stonecutter, cutting_board, cooking_pot"
+}

@@ -1,0 +1,39 @@
+{
+  "gui.visual_recipe_editor.crafting.title": "工作台配方编写器",
+  "gui.visual_recipe_editor.furnace.title": "熔炉配方编写器",
+  "gui.visual_recipe_editor.blast_furnace.title": "高炉配方编写器",
+  "gui.visual_recipe_editor.smoker.title": "烟熏炉配方编写器",
+  "gui.visual_recipe_editor.stonecutter.title": "切石机配方编写器",
+  "gui.visual_recipe_editor.smithing.title": "锻造台配方编写器",
+  "gui.visual_recipe_editor.cutting_board.title": "砧板配方编写器",
+  "gui.visual_recipe_editor.cooking_pot.title": "烹饪锅配方编写器",
+
+  "gui.visual_recipe_editor.button.json": "JSON",
+  "gui.visual_recipe_editor.button.kubejs": "KubeJS",
+  "gui.visual_recipe_editor.button.shapeless": "无序",
+  "gui.visual_recipe_editor.button.use_tags": "使用标签",
+  "gui.visual_recipe_editor.button.use_nbt": "使用NBT",
+  
+  "gui.visual_recipe_editor.tooltip.json": "左键导出到文件夹\nCtrl+左键复制到剪贴板",
+  "gui.visual_recipe_editor.tooltip.kubejs": "左键导出到KubeJS脚本\nCtrl+左键复制到剪贴板",
+  "gui.visual_recipe_editor.tooltip.nbt_input": "NBT数据 (JSON格式)",
+  "gui.visual_recipe_editor.tooltip.result_nbt": "结果物品NBT数据 (JSON格式)",
+  "gui.visual_recipe_editor.tooltip.cooking_time": "烧制时间(tick)，默认: %s",
+  "gui.visual_recipe_editor.tooltip.experience": "获得经验值，默认: %s",
+  "gui.visual_recipe_editor.tooltip.chance": "产物概率，范围: 0.0 - 1.0",
+  "gui.visual_recipe_editor.tooltip.recipe_book_tab": "切换 Farmer's Delight 配方书分类",
+
+  "gui.visual_recipe_editor.input.cooking_time": "烧制时间",
+  "gui.visual_recipe_editor.input.experience": "经验值",
+  "gui.visual_recipe_editor.input.chance": "概率",
+  "gui.visual_recipe_editor.label.ingredient": "原料",
+  "gui.visual_recipe_editor.label.tool": "工具",
+  "gui.visual_recipe_editor.label.container": "容器",
+  "gui.visual_recipe_editor.button.recipe_book_tab": "分类: %s",
+  "gui.visual_recipe_editor.recipe_book_tab.meals": "餐食",
+  "gui.visual_recipe_editor.recipe_book_tab.drinks": "饮品",
+  "gui.visual_recipe_editor.recipe_book_tab.misc": "杂项",
+
+  "command.visual_recipe_editor.unknown_workstation": "未知的工作方块类型: %s",
+  "command.visual_recipe_editor.available_types": "可用类型: crafting, furnace, blast_furnace, smoker, smithing, stonecutter, cutting_board, cooking_pot"
+}
