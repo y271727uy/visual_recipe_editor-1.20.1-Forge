@@ -251,15 +251,7 @@ public class CuttingBoardRecipeScreen extends AbstractContainerScreen<CuttingBoa
         // tool：Farmer's Delight cutting 的实际格式是一个数组。
         // 第 1 项固定是 tool_action。
         // 第 2 项是工具槽内容；如果工具槽为空，就兜底使用 c:tools/knife。
-        JsonArray tool = new JsonArray();
-        JsonObject toolAbility = new JsonObject();
-        toolAbility.addProperty("type", "farmersdelight:tool_action");
-        toolAbility.addProperty("action", "knife_dig");
-        tool.add(toolAbility);
-
-        tool.add(serializeToolIngredient(toolStack));
-
-        json.add("tool", tool);
+        json.add("tool", serializeToolIngredient(toolStack));
 
         // result：遍历 4 个输出槽，按槽位顺序把非空输出写进去。
         // 也就是说：左上 -> 右上 -> 左下 -> 右下。
